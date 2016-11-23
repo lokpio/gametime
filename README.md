@@ -1,6 +1,6 @@
 #Game Time
 
-![Alt text]./layout.jpg?raw=true
+![Alt text]./layout.jpeg?raw=true
 
 Game Time is a client project that allows users to keep track of their favorite board games. The project was presented in 2 days and improvised it with CSS, Bootstrap, and Ajax.
 
